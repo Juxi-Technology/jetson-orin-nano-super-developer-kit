@@ -65,7 +65,7 @@ SDK Manager는 호스트 PC 방식입니다: USB-C를 통해 BSP를 플래싱하
 
 **호스트 PC 요구 사항**(키트의 BSP 설정 페이지 기준): **Ubuntu 22.04 또는 Ubuntu 20.04를 실행하는 x86 PC**; **인터넷 연결과 무료 NVIDIA Developer Program 계정**; 키트의 USB-C 포트용 **USB 케이블**과 "점퍼 핀 또는 금속 클립"; 그리고 키트용 디스플레이 또는 USB-to-TTL 시리얼 케이블.
 
-> **Juxi 참고:** NVIDIA의 출처가 서로 다릅니다. 키트 설정 페이지에는 Ubuntu 22.04 또는 20.04가 적혀 있고; L4T r39.2.1 릴리스 노트에는 플래싱용 호스트 배포판으로 "Ubuntu 24.04 and 22.04"가 적혀 있습니다. 호스트 PC를 준비하기 전에 NVIDIA의 SDK Manager 요구 사항을 확인하십시오.
+> **Juxi 참고:** NVIDIA의 출처가 서로 다릅니다. 키트 설정 페이지에는 Ubuntu 22.04 또는 20.04가 적혀 있고; L4T r39.2.1 릴리스 노트에는 플래싱용 호스트 배포판으로 "Ubuntu 24.04와 22.04"가 적혀 있습니다. 호스트 PC를 준비하기 전에 NVIDIA의 SDK Manager 요구 사항을 확인하십시오.
 
 **호스트에 SDK Manager를 설치합니다.** NVIDIA의 설정 페이지에 Ubuntu 22.04와 20.04용 정확한 명령이 나와 있습니다. `sdkmanager`로 실행한 뒤 NVIDIA Developer 자격 증명으로 로그인합니다(브라우저 창이 열리며, 2단계 인증이 나타날 수 있습니다).
 

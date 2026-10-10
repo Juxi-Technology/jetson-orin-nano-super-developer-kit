@@ -51,7 +51,8 @@ verified_against:
 Finden Sie Ihr Symptom im unten stehenden Index und lesen Sie dann den
 passenden Abschnitt. Einstufungen: **A** = offizielle NVIDIA-Dokumentation;
 **B** = NVIDIA-Entwicklerforum (Mitarbeiter- oder Community-Berichte). Nur auf
-die Community zurückgehende Punkte sind als *unbestätigt* markiert. Die Hardware-Verifikation für diese Serie steht noch aus — diese Seite ist
+die Community zurückgehende Punkte sind als *unbestätigt* markiert. Die
+Hardware-Verifikation für diese Serie steht noch aus — diese Seite ist
 ausschließlich anhand der Dokumentation geprüft, nicht auf Hardware getestet.
 
 ## Beginnen Sie mit NVIDIAs offiziellem Troubleshooting Guide

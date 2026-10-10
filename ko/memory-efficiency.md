@@ -181,7 +181,7 @@ NVIDIA의 8 GB 사례 연구(메모리 효율 블로그, 표 7): 전체 GNOME �
 | 도구 | 보여 주는 것 | 비고 |
 |---|---|---|
 | `sudo tegrastats` | CPU, GPU, 메모리, 온도, 전력 | 개발자 키트 사용자 가이드: nvidia-smi는 Jetson의 기본 모니터링 도구가 아닙니다 |
-| `nvidia-smi dmon` | GPU 사용률 | 릴리스 노트 5406663 기준; Jetson Power GUI의 GPU 사용률은 "still under evaluation"입니다 |
+| `nvidia-smi dmon` | GPU 사용률 | 릴리스 노트 5406663 기준; Jetson Power GUI의 GPU 사용률은 "아직 평가 중"입니다 |
 | `free -h` | 메모리에 대한 OS 관점 | GPU 워크로드가 얼마나 할당할 수 있는지는 알려 주지 않습니다 |
 | procrank | 프로세스별 물리 메모리(PSS) | `git clone https://github.com/csimmonds/procrank_linux.git`, `cd procrank_linux/`, `make`, `sudo ./procrank` |
 | nvmap clients | GPU/멀티미디어 버퍼를 보유한 프로세스 | `sudo cat /sys/kernel/debug/nvmap/iovmm/clients` |

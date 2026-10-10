@@ -51,8 +51,9 @@ verified_against:
 Trouvez votre symptôme dans l'index ci-dessous, puis lisez la section
 correspondante. Niveaux : **A** = documentation officielle NVIDIA ; **B** =
 forum des développeurs NVIDIA (personnel ou communauté). Les éléments issus
-uniquement de la communauté sont marqués *non confirmé*. La vérification matérielle de cette série est encore en attente — cette page
-n'est vérifiée que sur documentation, pas testée sur matériel.
+uniquement de la communauté sont marqués *non confirmé*. La vérification
+matérielle de cette série est encore en attente — cette page n'a été vérifiée
+que sur la base de la documentation, pas testée sur matériel.
 
 ## Commencez par le guide de dépannage officiel de NVIDIA
 
@@ -382,8 +383,8 @@ Questions ouvertes dans nos sources :
 
 *Statut : relu le 2026-10-11. Les éléments marqués
 comme non confirmés proviennent de signalements du forum communautaire et
-peuvent évoluer. Cette page n'est vérifiée que sur documentation — Juxi n'a
-pas testé ce kit sur matériel.*
+peuvent évoluer. Cette page n'a été vérifiée que sur la base de la
+documentation — Juxi n'a pas testé ce kit sur matériel.*
 
 ---
 

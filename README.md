@@ -63,4 +63,4 @@ Every page is written against NVIDIA's official documentation and records the ex
 
 ## Trademarks
 
-NVIDIA® and Jetson™ are trademarks of NVIDIA Corporation. Images are screenshots and photographs from NVIDIA's official Jetson Orin Nano Developer Kit documentation (checked 2026-10-11). This documentation is published by Juxi Technology and is not an NVIDIA publication.
+NVIDIA® and Jetson™ are trademarks of NVIDIA Corporation. Images are screenshots and photographs from NVIDIA's official documentation — the Jetson Orin Nano Developer Kit User Guide, plus the JetPack SDK page for the robotics diagram (checked 2026-10-11). This documentation is published by Juxi Technology and is not an NVIDIA publication.
